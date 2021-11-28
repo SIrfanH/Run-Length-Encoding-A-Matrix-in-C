@@ -1,6 +1,6 @@
 # Run-Length-Encoding-A-Matrix-in-C
 
-Inroduction to Computer Science Class 2018-2019
+Inroduction to Computer Science Class 2019-2020
 
 An algorithm which compresses a given matrix with N rows and M
 columns using the Run Length Encoding compression method and then decompresses
